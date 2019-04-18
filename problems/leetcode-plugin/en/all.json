@@ -8205,7 +8205,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "852",
-    "status": "",
+    "status": "ac",
     "title": "[825]Friends Of Appropriate Ages",
     "titleSlug": "friends-of-appropriate-ages"
   },
@@ -9068,6 +9068,16 @@
     "status": "",
     "title": "[911]Online Election",
     "titleSlug": "online-election"
+  },
+  {
+    "frontendQuestionId": "912",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "948",
+    "status": "",
+    "title": "[912]Sort an Array",
+    "titleSlug": "sort-an-array"
   },
   {
     "frontendQuestionId": "913",
