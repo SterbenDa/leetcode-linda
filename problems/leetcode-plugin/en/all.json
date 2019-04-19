@@ -655,7 +655,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "66",
-    "status": "",
+    "status": "ac",
     "title": "[66]Plus One",
     "titleSlug": "plus-one"
   },
@@ -7615,7 +7615,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "777",
-    "status": "",
+    "status": "ac",
     "title": "[766]Toeplitz Matrix",
     "titleSlug": "toeplitz-matrix"
   },
