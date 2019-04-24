@@ -1275,7 +1275,7 @@
     "level": 3,
     "nodeType": "def",
     "questionId": "128",
-    "status": "",
+    "status": "ac",
     "title": "[128]Longest Consecutive Sequence",
     "titleSlug": "longest-consecutive-sequence"
   },
