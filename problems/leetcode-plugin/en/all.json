@@ -4445,7 +4445,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "445",
-    "status": "",
+    "status": "ac",
     "title": "[445]Add Two Numbers II",
     "titleSlug": "add-two-numbers-ii"
   },
@@ -5135,7 +5135,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "516",
-    "status": "",
+    "status": "notac",
     "title": "[516]Longest Palindromic Subsequence",
     "titleSlug": "longest-palindromic-subsequence"
   },
@@ -9332,7 +9332,7 @@
   {
     "frontendQuestionId": "938",
     "leaf": true,
-    "level": 2,
+    "level": 1,
     "nodeType": "def",
     "questionId": "975",
     "status": "",
