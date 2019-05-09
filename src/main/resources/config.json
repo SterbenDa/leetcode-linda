@@ -1,0 +1,9 @@
+{
+  "username": "username",
+  "password": "password",
+  "language": [
+    "cpp",
+    "java"
+  ],
+  "outputDir": "./problems"
+}
