@@ -15,6 +15,7 @@ public class Q41Test {
     public void test_1() {
         // Arrange
         int[] nums = {1, 2, 0};
+
         // Act
         int result = sut.firstMissingPositive(nums);
 
