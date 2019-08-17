@@ -26,6 +26,7 @@ public class Q41Test {
     public void test_2() {
         // Arrange
         int[] nums = {3, 4, -1, 1};
+
         // Act
         int result = sut.firstMissingPositive(nums);
 
@@ -37,6 +38,7 @@ public class Q41Test {
     public void test_3() {
         // Arrange
         int[] nums = {7, 8, 9, 11, 12};
+
         // Act
         int result = sut.firstMissingPositive(nums);
 
