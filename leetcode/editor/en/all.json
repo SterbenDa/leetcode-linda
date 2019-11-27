@@ -116,7 +116,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "11",
-    "status": "ac",
+    "status": "",
     "title": "Container With Most Water",
     "titleSlug": "container-with-most-water"
   },
@@ -292,7 +292,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "27",
-    "status": "ac",
+    "status": "",
     "title": "Remove Element",
     "titleSlug": "remove-element"
   },
@@ -446,7 +446,7 @@
     "level": 3,
     "nodeType": "def",
     "questionId": "41",
-    "status": "ac",
+    "status": "",
     "title": "First Missing Positive",
     "titleSlug": "first-missing-positive"
   },
@@ -578,7 +578,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "53",
-    "status": "ac",
+    "status": "",
     "title": "Maximum Subarray",
     "titleSlug": "maximum-subarray"
   },
@@ -677,7 +677,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "62",
-    "status": "ac",
+    "status": "",
     "title": "Unique Paths",
     "titleSlug": "unique-paths"
   },
@@ -721,7 +721,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "66",
-    "status": "ac",
+    "status": "",
     "title": "Plus One",
     "titleSlug": "plus-one"
   },
@@ -908,7 +908,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "83",
-    "status": "ac",
+    "status": "",
     "title": "Remove Duplicates from Sorted List",
     "titleSlug": "remove-duplicates-from-sorted-list"
   },
@@ -1403,7 +1403,7 @@
     "level": 3,
     "nodeType": "def",
     "questionId": "128",
-    "status": "ac",
+    "status": "",
     "title": "Longest Consecutive Sequence",
     "titleSlug": "longest-consecutive-sequence"
   },
@@ -1741,7 +1741,7 @@
     "formTitle": "[159]Longest Substring with At Most Two Distinct Characters",
     "frontendQuestionId": "159",
     "leaf": true,
-    "level": 3,
+    "level": 2,
     "nodeType": "def",
     "questionId": "159",
     "status": "lock",
@@ -3603,7 +3603,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "328",
-    "status": "ac",
+    "status": "",
     "title": "Odd Even Linked List",
     "titleSlug": "odd-even-linked-list"
   },
@@ -4890,7 +4890,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "445",
-    "status": "ac",
+    "status": "",
     "title": "Add Two Numbers II",
     "titleSlug": "add-two-numbers-ii"
   },
@@ -5671,7 +5671,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "516",
-    "status": "notac",
+    "status": "",
     "title": "Longest Palindromic Subsequence",
     "titleSlug": "longest-palindromic-subsequence"
   },
@@ -5825,7 +5825,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "530",
-    "status": "ac",
+    "status": "",
     "title": "Minimum Absolute Difference in BST",
     "titleSlug": "minimum-absolute-difference-in-bst"
   },
@@ -7777,15 +7777,15 @@
     "titleSlug": "design-linked-list"
   },
   {
-    "formTitle": "[708]Insert into a Cyclic Sorted List",
+    "formTitle": "[708]Insert into a Sorted Circular Linked List",
     "frontendQuestionId": "708",
     "leaf": true,
     "level": 2,
     "nodeType": "def",
     "questionId": "850",
     "status": "lock",
-    "title": "Insert into a Cyclic Sorted List",
-    "titleSlug": "insert-into-a-cyclic-sorted-list"
+    "title": "Insert into a Sorted Circular Linked List",
+    "titleSlug": "insert-into-a-sorted-circular-linked-list"
   },
   {
     "formTitle": "[709]To Lower Case",
@@ -8179,7 +8179,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "745",
-    "status": "ac",
+    "status": "",
     "title": "Find Smallest Letter Greater Than Target",
     "titleSlug": "find-smallest-letter-greater-than-target"
   },
@@ -8421,7 +8421,7 @@
     "level": 1,
     "nodeType": "def",
     "questionId": "777",
-    "status": "ac",
+    "status": "",
     "title": "Toeplitz Matrix",
     "titleSlug": "toeplitz-matrix"
   },
@@ -9070,7 +9070,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "852",
-    "status": "ac",
+    "status": "",
     "title": "Friends Of Appropriate Ages",
     "titleSlug": "friends-of-appropriate-ages"
   },
@@ -11292,7 +11292,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "1087",
-    "status": "notac",
+    "status": "",
     "title": "Longest Arithmetic Sequence",
     "titleSlug": "longest-arithmetic-sequence"
   },
@@ -13811,7 +13811,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "1189",
-    "status": "",
+    "status": "lock",
     "title": "Encode Number",
     "titleSlug": "encode-number"
   },
@@ -13822,7 +13822,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "1190",
-    "status": "",
+    "status": "lock",
     "title": "Smallest Common Region",
     "titleSlug": "smallest-common-region"
   },
@@ -13833,7 +13833,7 @@
     "level": 2,
     "nodeType": "def",
     "questionId": "1191",
-    "status": "",
+    "status": "lock",
     "title": "Synonymous Sentences",
     "titleSlug": "synonymous-sentences"
   },
@@ -13844,7 +13844,7 @@
     "level": 3,
     "nodeType": "def",
     "questionId": "1213",
-    "status": "",
+    "status": "lock",
     "title": "Handshakes That Don't Cross",
     "titleSlug": "handshakes-that-dont-cross"
   },
@@ -13891,5 +13891,82 @@
     "status": "",
     "title": "Minimum Moves to Move a Box to Their Target Location",
     "titleSlug": "minimum-moves-to-move-a-box-to-their-target-location"
+  },
+  {
+    "formTitle": "[1264]Page Recommendations",
+    "frontendQuestionId": "1264",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1399",
+    "status": "lock",
+    "title": "Page Recommendations",
+    "titleSlug": "page-recommendations"
+  },
+  {
+    "formTitle": "[1265]Print Immutable Linked List in Reverse",
+    "frontendQuestionId": "1265",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1404",
+    "status": "lock",
+    "title": "Print Immutable Linked List in Reverse",
+    "titleSlug": "print-immutable-linked-list-in-reverse"
+  },
+  {
+    "formTitle": "[1266]Minimum Time Visiting All Points",
+    "frontendQuestionId": "1266",
+    "leaf": true,
+    "level": 1,
+    "nodeType": "def",
+    "questionId": "1395",
+    "status": "",
+    "title": "Minimum Time Visiting All Points",
+    "titleSlug": "minimum-time-visiting-all-points"
+  },
+  {
+    "formTitle": "[1267]Count Servers that Communicate",
+    "frontendQuestionId": "1267",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1396",
+    "status": "",
+    "title": "Count Servers that Communicate",
+    "titleSlug": "count-servers-that-communicate"
+  },
+  {
+    "formTitle": "[1268]Search Suggestions System",
+    "frontendQuestionId": "1268",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1397",
+    "status": "",
+    "title": "Search Suggestions System",
+    "titleSlug": "search-suggestions-system"
+  },
+  {
+    "formTitle": "[1269]Number of Ways to Stay in the Same Place After Some Steps",
+    "frontendQuestionId": "1269",
+    "leaf": true,
+    "level": 3,
+    "nodeType": "def",
+    "questionId": "1398",
+    "status": "",
+    "title": "Number of Ways to Stay in the Same Place After Some Steps",
+    "titleSlug": "number-of-ways-to-stay-in-the-same-place-after-some-steps"
+  },
+  {
+    "formTitle": "[1270]All People Report to the Given Manager",
+    "frontendQuestionId": "1270",
+    "leaf": true,
+    "level": 2,
+    "nodeType": "def",
+    "questionId": "1405",
+    "status": "lock",
+    "title": "All People Report to the Given Manager",
+    "titleSlug": "all-people-report-to-the-given-manager"
   }
 ]
